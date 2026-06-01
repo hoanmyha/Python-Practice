@@ -1,0 +1,25 @@
+zoo_id,name,animal,water_need,diet,arrival_date,injured
+1001,Zoppo,zebra,100,herbivore,1999-11-06,N
+1002,Karen,kangaroo,410,herbivore,2000-04-19,Y
+1003,Zippy,zebra,230,herbivore,2001-02-06,N
+1004,Xena,zebra,200,herbivore,2001-03-06,N
+1005,Teresa,tiger,320,carnivore,2001-10-22,N
+1006,Simba,lion,600,carnivore,2003-04-03,N
+1007,Zinger,zebra,180,herbivore,2005-03-18,Y
+1008,Lucy,lion,420,carnivore,2005-11-06,N
+1009,Sonic,hedgehog,120,omnivore,2005-12-08,N
+1010,Eddie,elephant,600,herbivore,2007-05-11,N
+1011,Egbert,elephant,550,herbivore,2007-06-07,N
+1012,Twiggy,tiger,330,carnivore,2007-08-07,N
+1013,Tumtum,tiger,310,carnivore,2009-05-03,Y
+1014,Trixie,tiger,290,carnivore,2009-07-07,N
+1015,Zelle,zebra,220,herbivore,2011-05-15,N
+1016,Tony,tiger,300,carnivore,2012-02-18,N
+1017,Zappy,zebra,220,herbivore,2016-01-08,N
+1018,Lilah,lion,390,carnivore,2016-08-24,N
+1019,Scar,lion,500,carnivore,2016-09-21,Y
+1020,Roo,kangaroo,410,herbivore,2017-01-03,N
+1021,Zergo,zebra,240,herbivore,2017-02-17,N
+1022,Gruffy,grizzly bear,400,omnivore,2017-04-21,N
+1023,Elsie,elephant,500,herbivore,2017-06-23,N
+1024,Kanga,kangaroo,430,herbivore,2019-04-26,N
